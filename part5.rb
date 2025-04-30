@@ -30,3 +30,5 @@ puts singer.length
 puts singer.include? 'Billy Joel'
  
 puts singer.reverse
+
+
