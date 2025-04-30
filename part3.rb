@@ -1,8 +1,8 @@
-# name = "Billy Joel"
-# age = 62
-# fav_album = "52nd Street"
-# rating = 8.9
-# ismale = true
+name = "Billy Joel"
+age = 62
+fav_album = "52nd Street"
+rating = 8.9
+ismale = true
 
 # puts name + " is " + age.to_s + " years old"
 # puts name[0,3] 
